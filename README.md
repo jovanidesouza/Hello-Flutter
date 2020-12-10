@@ -1,7 +1,7 @@
 # Hello-Flutter
 
 
-My first Hello World APP with Flutter
+Hello World APP with Flutter
 
 
 Clone the repo:
