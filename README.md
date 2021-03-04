@@ -3,15 +3,17 @@
 
 Hello World APP with Flutter
 
+```bash
+# Clone this repository
+$ git clone https://github.com/jovanidesouza/Hello-Flutter
 
-Clone the repo:
+# Go into the repository
+$ cd Hello-Flutter
 
-`git clone https://github.com/jovanidesouza/Hello-Flutter`
+# Remove current origin repository
+$ git remote remove origin
 
-Open app folder:
+# run development 
+$ flutter run
 
-`cd Hello-Flutter`
-
-Run project:
-
-`flutter run`
+```
